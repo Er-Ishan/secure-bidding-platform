@@ -1,0 +1,55 @@
+
+.register-container {
+    background: url("../images/background1.png") no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    width:auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+.login-container {
+    background: url("../images/background2.png") no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    width:auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+.admin-container {
+    background: url("../images/background3.png") no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    width:auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .form-cardd {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 50rem;
+    margin-right: 450px;
+  }
+  .form-card {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 100rem;
+  }
+  .form-carddd {
+    padding: .2em .2em .2em;
+    border-radius: 1em;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4); /* Adjust the values here */
+  }
+  
+  .text-danger {
+    font-size: 12px;
+    font-weight: bold;
+  }
+  

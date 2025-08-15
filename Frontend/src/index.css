@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css?family=DM+Sans:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+body {
+  margin: 0;
+  font-family: "DM Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:#FFFFFF
+}
+
+*{
+  font-family: "DM Sans", sans-serif;
+}
+
+code {
+  font-family: "DM Sans", sans-serif;
+}
+
+.custom-bg {
+  /* background-color: #F2F4F3; */
+  background-color: #1D1616;
+} 
+.custom-bg1 {
+  /* background-color: #F2F4F3; */
+  background-color: #eeeaea;
+} 
+
+.text-color {
+  /* color:#49111C; */
+  color:#e5dee0;
+}
+.text-color1 {
+  /* color:#49111C; */
+  color:#3a3033;
+}
+
+.border-color {
+  border-color: #49111C;
+}
+
+.custom-bg-text {
+  color:#F2F4F3;
+}
+
+.bg-color {
+  background-color: #49111C;
+}
+
+.rounded-card {
+  padding: 1.5em .5em .5em;
+  border-radius: 2em;
+  box-shadow: 0 5px 10px #00000033;
+}
+
+.form-card {
+  padding: .2em .2em .2em;
+  border-radius: 1em;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4); /* Adjust the values here */
+}
+
+.product-card {
+  transition: transform 0.2s ease-in-out;
+}
+
+.product-card:hover {
+  transform: scale(1.02); /* You can adjust the scale factor for the desired hover effect */
+}
