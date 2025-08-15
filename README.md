@@ -16,4 +16,6 @@ Secure Bidding Platform is an advanced online auction system designed to provide
 - **Other Tools:** Git, Postman, Razorpay
 
 ## Images
-![Website Image](/Images/img1.png)
+![Website Image 1](/Images/img1.png)
+![Website Image 2](/Images/img2.png)
+![Website Image 3](/Images/img3.png)
